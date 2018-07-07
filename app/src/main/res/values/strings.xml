@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">AlexTourGuide</string>
+    <string name="Attraction_Fragment_Title">Attractions</string>
+    <string name="MovieTheatres_Fragment_Title">MovieTheatres</string>
+    <string name="Museums_Fragment_Title">Museums</string>
+    <string name="Restaurants_Fragment_Title">Restaurants</string>
+    <string name="Beaches_Fragment_Title">Beaches</string>
+
+</resources>
